@@ -1,2 +1,2 @@
 # FFR120-Simulation-of-Complex-Systems
-Course FFR120 at Chalmers University.
+Course FFR120 at Chalmers University. Focus here has been to simulate well known complex phenomena such as magnetic spins, game theory and more.
