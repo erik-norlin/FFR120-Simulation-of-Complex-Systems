@@ -1,0 +1,122 @@
+R = 0.2, S = 2
+
+Variance strat. 0:  1.14
+Variance strat. 1:  1.14
+Variance strat. 2:  1.03
+Variance strat. 3:  1.13
+Variance strat. 4:  14.92
+Variance strat. 5:  771.96
+Variance strat. 6:  612.57
+Variance strat. 7:  37.99
+Variance sum: 1441.88
+no competition
+
+
+R = 0.95, S = 1.05
+
+Variance strat. 0:  10.82
+Variance strat. 1:  1.13
+Variance strat. 2:  1.34
+Variance strat. 3:  1.32
+Variance strat. 4:  2.27
+Variance strat. 5:  1.89
+Variance strat. 6:  1.34
+Variance strat. 7:  1.32
+Sum: 21.43
+No competition
+
+R = 0.75, S = 1.4
+
+Variance strat. 0:  14344.6
+Variance strat. 1:  1349.99
+Variance strat. 2:  2460.17
+Variance strat. 3:  993.29
+Variance strat. 4:  4655.47
+Variance strat. 5:  3.83
+Variance strat. 6:  37.44
+Variance strat. 7:  1.15
+Variance sum: 23845.94
+no competition
+
+
+R = 0.8, S = 1.2
+
+Variance strat. 0:  12301.95
+Variance strat. 1:  1174.64
+Variance strat. 2:  2342.39
+Variance strat. 3:  1630.79
+Variance strat. 4:  8088.33
+Variance strat. 5:  1.1
+Variance strat. 6:  1.2
+Variance strat. 7:  1.23
+Variance sum: 25541.63
+No competition
+
+
+R = 0.5, S = 2
+
+Variance strat. 0:  292.8
+Variance strat. 1:  2889.92
+Variance strat. 2:  6212.41
+Variance strat. 3:  2850.66
+Variance strat. 4:  2638.49
+Variance strat. 5:  3235.15
+Variance strat. 6:  5608.2
+Variance strat. 7:  2307.93
+Variance sum: 26035.559999999998
+competition
+
+
+R = 0.3, S = 4
+
+Variance strat. 0:  1896.55
+Variance strat. 1:  4212.72
+Variance strat. 2:  2837.26
+Variance strat. 3:  1844.99
+Variance strat. 4:  2647.15
+Variance strat. 5:  2382.78
+Variance strat. 6:  11940.04
+Variance strat. 7:  1.21
+Sum = 27762.7
+
+
+R = 0.6, S = 2
+
+Variance strat. 0:  6485.09
+Variance strat. 1:  5098.43
+Variance strat. 2:  7319.64
+Variance strat. 3:  1999.67
+Variance strat. 4:  7975.42
+Variance strat. 5:  1827.52
+Variance strat. 6:  8324.49
+Variance strat. 7:  1.07
+Variance sum: 39031.33
+competition
+
+
+R = 0.65, S = 1.5
+
+Variance strat. 0:  6003.24
+Variance strat. 1:  8136.48
+Variance strat. 2:  2592.07
+Variance strat. 3:  8920.32
+Variance strat. 4:  2098.19
+Variance strat. 5:  2920.41
+Variance strat. 6:  11408.15
+Variance strat. 7:  1.07
+Sum = 42079.93
+Competition
+
+
+R = 0.7, S = 1.3
+
+Variance strat. 0:  18507.38
+Variance strat. 1:  9133.24
+Variance strat. 2:  3582.07
+Variance strat. 3:  3761.23
+Variance strat. 4:  5189.59
+Variance strat. 5:  5214.29
+Variance strat. 6:  24288.47
+Variance strat. 7:  4431.41
+Variance sum: 74107.68000000001
+competition
