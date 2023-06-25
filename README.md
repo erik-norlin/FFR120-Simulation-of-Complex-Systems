@@ -7,6 +7,5 @@ Magnetic spins changing states over time for different temperatures |
 
 Brownian motion in one spatial dimension |
 :-------------------------:
-https://github.com/erik-norlin/FFR120-Simulation-of-Complex-Systems/blob/main/Homeworks/scs_hw2/plots/exercise_52a.png
 ![](https://github.com/erik-norlin/FFR120-Simulation-of-Complex-Systems/blob/main/Homeworks/scs_hw2/plots/exercise_52a.png?raw=true)
 
