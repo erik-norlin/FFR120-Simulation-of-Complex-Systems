@@ -3,7 +3,7 @@ Course FFR120 at Chalmers University. Focus here has been to simulate well known
 
 Simulating game theory dynamics | Brownian motion in one spatial dimension |
 :-------------------------:|:-------------------------:
-![](https://github.com/erik-norlin/FFR120-Simulation-of-Complex-Systems/blob/main/Homeworks/scs_hw2/plots/exercise_52a.png?raw=true) | ![](https://github.com/erik-norlin/FFR120-Simulation-of-Complex-Systems/blob/main/Homeworks/scs_hw4/gifs/exercise_13.5_R0.48_S1.5.gif?raw=true)
+![](https://github.com/erik-norlin/FFR120-Simulation-of-Complex-Systems/blob/main/Homeworks/scs_hw4/gifs/exercise_13.5_R0.48_S1.5.gif?raw=true) | ![](https://github.com/erik-norlin/FFR120-Simulation-of-Complex-Systems/blob/main/Homeworks/scs_hw2/plots/exercise_52a.png?raw=true)
 
 Brownian motion in one spatial dimension |
 :-------------------------:
