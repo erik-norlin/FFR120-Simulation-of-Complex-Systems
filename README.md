@@ -1,5 +1,5 @@
 # FFR120-Simulation-of-Complex-Systems
-Course FFR120 at Chalmers University. The key aspect here has been to simulate well known complex phenomena such as magnetic spins, brownian motion and game theory.
+The key aspect here has been to simulate well known complex phenomena such as magnetic spins, brownian motion and game theory.
 
 Simulating game theory dynamics | Brownian motion in one spatial dimension |
 :-------------------------:|:-------------------------:
